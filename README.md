@@ -8,6 +8,6 @@ Matu is a Material You/Material Design 3 color scheme theme for the [Aliucord](h
 
 ### Screenshot
 
-<img src="./Img1.png" width="50%">
+<img src="./Img1.png" width="25%">
 
 ### [Download](https://raw.githubusercontent.com/ForkPrince/Matu/refs/heads/main/matu-dark.json)
