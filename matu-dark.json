@@ -3,12 +3,12 @@
         "author": "Karebu#6708",
         "name": "Matu Dark [Material You]",
         "version": "1.1.5",
-        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/matu-dark.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/ForkPrince\/Matu\/main\/matu-dark.json",
         "license": "GPL-3.0 License"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/Fonts\/GST.ttf"
+        "*": "https:\/\/raw.githubusercontent.com\/ForkPrince\/Matu\/main\/Fonts\/GST.ttf"
     },
     "simple_colors": {
         "background": "system_neutral1_900",
